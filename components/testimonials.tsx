@@ -12,8 +12,7 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Don't take our word for it</h2>
-            <p className="text-xl text-gray-400">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.</p>
+            <h2 className="h2 mb-4">Découvrez ce que nos clients pensent de nous</h2>
           </div>
 
           {/* Testimonials */}
@@ -29,9 +28,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— J'ai récemment fait appel à MobilyDrive pour le transfert de mon véhicule de Paris à Marseille, et je dois dire que je suis extrêmement satisfait du service fourni. Dès le début, le processus de devis en ligne a été simple et transparent. Le chauffeur était professionnel, ponctuel. La livraison a été réalisée plus rapidement que prévu, sans le moindre accroc. Les frais de péage, d'essence et l'assurance inclus dans le prix rendent le service MobilyDrive pratique. Je recommande vivement MobilyDrive à quiconque cherchant un moyen sûr et efficace de transporter son véhicule.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Anne</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Avis client</a>
               </div>
             </div>
 
@@ -45,9 +44,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— MobilyDrive a surpassé toutes mes attentes en matière de transfert de véhicule. J'avais besoin d'envoyer ma voiture de Lyon à Nice, et toute l'expérience a été impeccable. À l'arrivée, mon véhicule était dans un état parfait. Un grand merci à MobilyDrive pour leur professionnalisme et leur fiabilité.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Victor</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Avis client</a>
               </div>
             </div>
 
@@ -61,9 +60,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— Leur service client est réactif et attentif, répondant à toutes mes questions et préoccupations avec patience et professionnalisme. Le chauffeur qui a pris en charge mon véhicule était non seulement expérimenté mais aussi extrêmement courtois et professionnel, assurant un processus sans stress du début à la fin. Le système de devis en ligne est facile à utiliser et offre une transparence totale sur les coûts. Leur efficacité, la qualité du service et les prix compétitifs font de MobilyDrive le choix idéal pour quiconque a besoin de transporter son véhicule en toute sécurité et fiabilité. Hautement recommandé !.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Robin</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Avis Client</a>
               </div>
             </div>
 
